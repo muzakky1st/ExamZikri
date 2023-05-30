@@ -1,0 +1,4 @@
+com\Exam\ServletInitializer.class
+com\Exam\Controller\ExamController.class
+com\Exam\ExamApplication.class
+com\Exam\Service\ExamService.class
